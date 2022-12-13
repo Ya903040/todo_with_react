@@ -30,7 +30,7 @@ const Home = () => {
 
     return (
         <div className='w-4/5 mx-auto'>
-            <h1 className='text-2x1 font-bold text-center mb-8 '>home</h1>
+            <h1 className='text-5xl font-bold text-center mb-8 '>todo</h1>
 
             {
                 todos.map(todo => (
